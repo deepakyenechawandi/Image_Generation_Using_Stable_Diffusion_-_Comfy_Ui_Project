@@ -119,6 +119,3 @@ Contributions are welcome! Please follow these steps to contribute:
    ```
 6. **Create a Pull Request**.
 
-## License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
